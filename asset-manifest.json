@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-gaming-checklist/static/css/main.8d57a9b7.css",
-    "main.js": "/my-gaming-checklist/static/js/main.e31ca0ae.js",
+    "main.js": "/my-gaming-checklist/static/js/main.37e5187d.js",
     "static/media/SunsetRiders.jpg": "/my-gaming-checklist/static/media/SunsetRiders.c1a7618ee0f2b81582be.jpg",
     "static/media/little_nemo_the_dream_master-square.png": "/my-gaming-checklist/static/media/little_nemo_the_dream_master-square.7b03017482e7bc192108.png",
     "static/media/TMNT4.png": "/my-gaming-checklist/static/media/TMNT4.98abaf3980c8ff39f99e.png",
@@ -137,6 +137,7 @@
     "static/media/POWPrisonersWar.jpg": "/my-gaming-checklist/static/media/POWPrisonersWar.cf873a7c0a4e7cf9f1da.jpg",
     "static/media/mega_man_x5-square.webp": "/my-gaming-checklist/static/media/mega_man_x5-square.44aea88a3ac87f5830f2.webp",
     "static/media/devil_may_cry_3_dante_s_awakening-square.webp": "/my-gaming-checklist/static/media/devil_may_cry_3_dante_s_awakening-square.f7e36063fd36908f4d79.webp",
+    "static/media/Amagon.jpg": "/my-gaming-checklist/static/media/Amagon.dd1d32bee7dde799baeb.jpg",
     "static/media/resident_evil_6-square.webp": "/my-gaming-checklist/static/media/resident_evil_6-square.f20ca545a33618ad974c.webp",
     "static/media/sonic_3d_blast-square.webp": "/my-gaming-checklist/static/media/sonic_3d_blast-square.b3473afe63fef93683fc.webp",
     "static/media/mega_man_x2-square.png": "/my-gaming-checklist/static/media/mega_man_x2-square.e354744ce393681619fe.png",
@@ -155,6 +156,7 @@
     "static/media/bucky_o_hare-square.jpg": "/my-gaming-checklist/static/media/bucky_o_hare-square.1b92e3f4ed3237fcc162.jpg",
     "static/media/felix_the_cat-square.png": "/my-gaming-checklist/static/media/felix_the_cat-square.779c88e6c69704f4c4b5.png",
     "static/media/ducktales_3.jpg": "/my-gaming-checklist/static/media/ducktales_3.c7db4e38dc4ac4c1f120.jpg",
+    "static/media/Xexyz.jpg": "/my-gaming-checklist/static/media/Xexyz.79a3df6f29012f8d4ac6.jpg",
     "static/media/mortal_kombat_deception-square.webp": "/my-gaming-checklist/static/media/mortal_kombat_deception-square.da19770821adf11084f1.webp",
     "static/media/mega_man_x-square.webp": "/my-gaming-checklist/static/media/mega_man_x-square.1358f0a4662bf7d3703f.webp",
     "static/media/junglebooksnes.jpg": "/my-gaming-checklist/static/media/junglebooksnes.f49954c4999b205714ea.jpg",
@@ -177,6 +179,7 @@
     "static/media/sonic_knuckles-square.webp": "/my-gaming-checklist/static/media/sonic_knuckles-square.5f9b5afec9693240182a.webp",
     "static/media/teenage_mutant_ninja_turtles_fall_of_the_foot_clan-square.jpg": "/my-gaming-checklist/static/media/teenage_mutant_ninja_turtles_fall_of_the_foot_clan-square.16d0483b273ac915f6bc.jpg",
     "static/media/wwf_wrestlemania_the_arcade_game-square.webp": "/my-gaming-checklist/static/media/wwf_wrestlemania_the_arcade_game-square.2732531d26c193c4e42f.webp",
+    "static/media/BabyBoomer.jpg": "/my-gaming-checklist/static/media/BabyBoomer.e446456271b4ce3ee1f9.jpg",
     "static/media/mission_impossible-square.jpg": "/my-gaming-checklist/static/media/mission_impossible-square.3371dffb622ca8919b24.jpg",
     "static/media/soulcalibur_5-square.jpg": "/my-gaming-checklist/static/media/soulcalibur_5-square.e4a665a6cd32fb0d22f4.jpg",
     "static/media/the_little_mermaid-square_1.jpg": "/my-gaming-checklist/static/media/the_little_mermaid-square_1.b3ec8d99505ffd000bcc.jpg",
@@ -192,6 +195,7 @@
     "static/media/Dragon-s_Lair_-_1990_-_CSG_Imagesoft.jpg": "/my-gaming-checklist/static/media/Dragon-s_Lair_-_1990_-_CSG_Imagesoft.3764f3a404c624878e5c.jpg",
     "static/media/general_chaos-square.jpg": "/my-gaming-checklist/static/media/general_chaos-square.f8b98f8b1ceca185e124.jpg",
     "static/media/EarthwormJimSpecialEdition.jpg": "/my-gaming-checklist/static/media/EarthwormJimSpecialEdition.9eac8c97b05cf9625ee9.jpg",
+    "static/media/dragon_quest-square.webp": "/my-gaming-checklist/static/media/dragon_quest-square.9ec9c2f90f17161d2511.webp",
     "static/media/salamander-square.jpg": "/my-gaming-checklist/static/media/salamander-square.f3aa17813965513a7521.jpg",
     "static/media/TMNT3.jpg": "/my-gaming-checklist/static/media/TMNT3.12b0a15fb26b08598ca2.jpg",
     "static/media/heavy_barrel-square.jpg": "/my-gaming-checklist/static/media/heavy_barrel-square.07669a1c824037afa384.jpg",
@@ -221,6 +225,7 @@
     "static/media/shin_nekketsu_kouha_kunio_tachi_no_banka-square.jpg": "/my-gaming-checklist/static/media/shin_nekketsu_kouha_kunio_tachi_no_banka-square.77226406c7f03e4a6b42.jpg",
     "static/media/desert_demolition_starring_road_runner_and_wile_e_coyote-square.jpg": "/my-gaming-checklist/static/media/desert_demolition_starring_road_runner_and_wile_e_coyote-square.6d5b6bb06a69482ea8bf.jpg",
     "static/media/home_alone_2_lost_in_new_york-square.jpg": "/my-gaming-checklist/static/media/home_alone_2_lost_in_new_york-square.5f18b45fbb1b5926d153.jpg",
+    "static/media/TopRider.jpg": "/my-gaming-checklist/static/media/TopRider.035853f0bf8e5b4e2c26.jpg",
     "static/media/rocket_knight_adventures-square.jpg": "/my-gaming-checklist/static/media/rocket_knight_adventures-square.488275c7031b7c76615a.jpg",
     "static/media/ferrari_grand_prix_challenge-square.jpg": "/my-gaming-checklist/static/media/ferrari_grand_prix_challenge-square.8f6c653ce74905452285.jpg",
     "static/media/jackie_chan_s_action_kung_fu-square.jpg": "/my-gaming-checklist/static/media/jackie_chan_s_action_kung_fu-square.a6784ae708df93c96941.jpg",
@@ -232,6 +237,7 @@
     "static/media/mega_man_9-square.jpg": "/my-gaming-checklist/static/media/mega_man_9-square.cac90a2897038141f56a.jpg",
     "static/media/battletoads_double_dragon-square.jpg": "/my-gaming-checklist/static/media/battletoads_double_dragon-square.e1026dcf513e9111d63d.jpg",
     "static/media/super_mario_bros_the_lost_levels-square.jpg": "/my-gaming-checklist/static/media/super_mario_bros_the_lost_levels-square.b570e386108825b69737.jpg",
+    "static/media/top_gun_1987-square_1.jpg": "/my-gaming-checklist/static/media/top_gun_1987-square_1.f6fefe65ce6afde911d0.jpg",
     "static/media/ecco_the_dolphin_defender_of_the_future-square.jpg": "/my-gaming-checklist/static/media/ecco_the_dolphin_defender_of_the_future-square.3ef117f47c42f051c342.jpg",
     "static/media/metroid-square.jpg": "/my-gaming-checklist/static/media/metroid-square.ae59e8f72d21162b2feb.jpg",
     "static/media/SnowBrothers.jpg": "/my-gaming-checklist/static/media/SnowBrothers.4f468a359951a4aa7cb9.jpg",
@@ -368,19 +374,23 @@
     "static/media/T2JD_MD_US_Box.jpg": "/my-gaming-checklist/static/media/T2JD_MD_US_Box.40b316f77c7c8b603600.jpg",
     "static/media/little_nightmares_3-square.webp": "/my-gaming-checklist/static/media/little_nightmares_3-square.0b5875331fba0055ff32.webp",
     "static/media/scat.jpg": "/my-gaming-checklist/static/media/scat.89ebc793a1a879d54b5f.jpg",
+    "static/media/Super_Mogura_Tataki_Pokkun_Mogura_FC_box.jpg": "/my-gaming-checklist/static/media/Super_Mogura_Tataki_Pokkun_Mogura_FC_box.43eb057b1d0403947bd7.jpg",
     "static/media/super_mario_bros_3-square.webp": "/my-gaming-checklist/static/media/super_mario_bros_3-square.2d6d96f85b61b97920ec.webp",
     "static/media/golden_axe_the_revenge_of_death_adder-square.jpg": "/my-gaming-checklist/static/media/golden_axe_the_revenge_of_death_adder-square.fafa490a6bd681cc1016.jpg",
     "static/media/mortal_kombat_4-square.webp": "/my-gaming-checklist/static/media/mortal_kombat_4-square.3785e943ab04503b643d.webp",
     "static/media/super_mario_bros-square.webp": "/my-gaming-checklist/static/media/super_mario_bros-square.9a39ce91467a5255009b.webp",
     "static/media/mortal_kombat_deadly_alliance-square_1.webp": "/my-gaming-checklist/static/media/mortal_kombat_deadly_alliance-square_1.174ad964342bc22be890.webp",
+    "static/media/exciting-boxing.jpg": "/my-gaming-checklist/static/media/exciting-boxing.d3f1b150d79d22e75130.jpg",
+    "static/media/final_fantasy_xv-square.webp": "/my-gaming-checklist/static/media/final_fantasy_xv-square.cf25e4796caa9aec458c.webp",
     "static/media/mortal_kombat_3-square.jpg": "/my-gaming-checklist/static/media/mortal_kombat_3-square.7e260b5fecc3fdb0b66c.jpg",
     "static/media/pitfall_the_mayan_adventure-square.webp": "/my-gaming-checklist/static/media/pitfall_the_mayan_adventure-square.a7f7340188e8a2b2d3ee.webp",
+    "static/media/final_fantasy-square.webp": "/my-gaming-checklist/static/media/final_fantasy-square.8a974103ae2bc498b593.webp",
     "index.html": "/my-gaming-checklist/index.html",
     "main.8d57a9b7.css.map": "/my-gaming-checklist/static/css/main.8d57a9b7.css.map",
-    "main.e31ca0ae.js.map": "/my-gaming-checklist/static/js/main.e31ca0ae.js.map"
+    "main.37e5187d.js.map": "/my-gaming-checklist/static/js/main.37e5187d.js.map"
   },
   "entrypoints": [
     "static/css/main.8d57a9b7.css",
-    "static/js/main.e31ca0ae.js"
+    "static/js/main.37e5187d.js"
   ]
 }
