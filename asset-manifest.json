@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-gaming-checklist/static/css/main.8d57a9b7.css",
-    "main.js": "/my-gaming-checklist/static/js/main.5fd0694e.js",
+    "main.js": "/my-gaming-checklist/static/js/main.e31ca0ae.js",
     "static/media/SunsetRiders.jpg": "/my-gaming-checklist/static/media/SunsetRiders.c1a7618ee0f2b81582be.jpg",
     "static/media/little_nemo_the_dream_master-square.png": "/my-gaming-checklist/static/media/little_nemo_the_dream_master-square.7b03017482e7bc192108.png",
     "static/media/TMNT4.png": "/my-gaming-checklist/static/media/TMNT4.98abaf3980c8ff39f99e.png",
@@ -377,10 +377,10 @@
     "static/media/pitfall_the_mayan_adventure-square.webp": "/my-gaming-checklist/static/media/pitfall_the_mayan_adventure-square.a7f7340188e8a2b2d3ee.webp",
     "index.html": "/my-gaming-checklist/index.html",
     "main.8d57a9b7.css.map": "/my-gaming-checklist/static/css/main.8d57a9b7.css.map",
-    "main.5fd0694e.js.map": "/my-gaming-checklist/static/js/main.5fd0694e.js.map"
+    "main.e31ca0ae.js.map": "/my-gaming-checklist/static/js/main.e31ca0ae.js.map"
   },
   "entrypoints": [
     "static/css/main.8d57a9b7.css",
-    "static/js/main.5fd0694e.js"
+    "static/js/main.e31ca0ae.js"
   ]
 }
