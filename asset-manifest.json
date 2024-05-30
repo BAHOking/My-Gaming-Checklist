@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-gaming-checklist/static/css/main.0dcca853.css",
-    "main.js": "/my-gaming-checklist/static/js/main.bedef33d.js",
+    "main.js": "/my-gaming-checklist/static/js/main.efc6a911.js",
     "static/media/SunsetRiders.webp": "/my-gaming-checklist/static/media/SunsetRiders.5fbe649160f531976dc3.webp",
     "static/media/sonic_shuffle-square.webp": "/my-gaming-checklist/static/media/sonic_shuffle-square.51249065d8c0d5b0dc2a.webp",
     "static/media/spider_man_and_the_x_men_in_arcade_s_revenge-square.webp": "/my-gaming-checklist/static/media/spider_man_and_the_x_men_in_arcade_s_revenge-square.e9ba0f4e607a602c9ecf.webp",
@@ -540,6 +540,7 @@
     "static/media/s-l1600.webp": "/my-gaming-checklist/static/media/s-l1600.bb77b41c23d7ee47c175.webp",
     "static/media/10320245.webp": "/my-gaming-checklist/static/media/10320245.8dfd22b462723ae11927.webp",
     "static/media/445341.webp": "/my-gaming-checklist/static/media/445341.3042c8f5d816f45638ea.webp",
+    "static/media/w1500_52369301.webp": "/my-gaming-checklist/static/media/w1500_52369301.579ae4de211373c78dd2.webp",
     "static/media/MV5BZGNmOTViMjQtZWE1NS00MTgzLWEwNjctNjFlZTMzYjg1YTIxXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.webp": "/my-gaming-checklist/static/media/MV5BZGNmOTViMjQtZWE1NS00MTgzLWEwNjctNjFlZTMzYjg1YTIxXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.bcd34cfa86c25e4df705.webp",
     "static/media/w1500_51625013.webp": "/my-gaming-checklist/static/media/w1500_51625013.fad9dea77eebf0a17c2f.webp",
     "static/media/w1500_50317769.webp": "/my-gaming-checklist/static/media/w1500_50317769.f01c1b194e76e4e4f661.webp",
@@ -547,6 +548,7 @@
     "static/media/w1500_36962264.webp": "/my-gaming-checklist/static/media/w1500_36962264.e6638d1b4ff204ed8c5b.webp",
     "static/media/445943.webp": "/my-gaming-checklist/static/media/445943.5f11114835ca0557b816.webp",
     "static/media/2610611.webp": "/my-gaming-checklist/static/media/2610611.397d6e49fa1df132f731.webp",
+    "static/media/92113.webp": "/my-gaming-checklist/static/media/92113.1fd66867e7dced9883f4.webp",
     "static/media/w1500_51622190.webp": "/my-gaming-checklist/static/media/w1500_51622190.9abe639f5e31ebb0ba1f.webp",
     "static/media/393873.webp": "/my-gaming-checklist/static/media/393873.7c1c3ffa582033427343.webp",
     "static/media/45595.webp": "/my-gaming-checklist/static/media/45595.d44124ac40b5b31b0770.webp",
@@ -573,9 +575,11 @@
     "static/media/w1500_51624380.webp": "/my-gaming-checklist/static/media/w1500_51624380.bb24886cd9e1be49f378.webp",
     "static/media/w1500_51625022.webp": "/my-gaming-checklist/static/media/w1500_51625022.3262861ac72cb3d20e44.webp",
     "static/media/w1500_51624748.webp": "/my-gaming-checklist/static/media/w1500_51624748.44645fe62e304fcb850b.webp",
+    "static/media/9955878.webp": "/my-gaming-checklist/static/media/9955878.dfd269535f3253215012.webp",
     "static/media/w1500_51866836.webp": "/my-gaming-checklist/static/media/w1500_51866836.e331e8294acada3d850b.webp",
     "static/media/1597452.webp": "/my-gaming-checklist/static/media/1597452.cedd21da809f3e5ab0be.webp",
     "static/media/w1500_3497164.webp": "/my-gaming-checklist/static/media/w1500_3497164.38282856e09992ae4e3f.webp",
+    "static/media/w1500_48396405.webp": "/my-gaming-checklist/static/media/w1500_48396405.d63fc01d93961b36cb23.webp",
     "static/media/1604134.webp": "/my-gaming-checklist/static/media/1604134.d9d8c14e90b49614a406.webp",
     "static/media/w1500_37661466.webp": "/my-gaming-checklist/static/media/w1500_37661466.48e4e0396ab9743aa0e8.webp",
     "static/media/w1500_49841898.webp": "/my-gaming-checklist/static/media/w1500_49841898.2879aae462a39e887afa.webp",
@@ -684,6 +688,7 @@
     "static/media/493743.webp": "/my-gaming-checklist/static/media/493743.b1ec55a8443942e29a11.webp",
     "static/media/w1500_50922328.webp": "/my-gaming-checklist/static/media/w1500_50922328.12175a53958af8366bc3.webp",
     "static/media/186898.webp": "/my-gaming-checklist/static/media/186898.4472d06cb8d980835ff2.webp",
+    "static/media/90964.webp": "/my-gaming-checklist/static/media/90964.6cf613c8d38396bb12f2.webp",
     "static/media/98371.webp": "/my-gaming-checklist/static/media/98371.8746aed1d05e7629078a.webp",
     "static/media/82529.webp": "/my-gaming-checklist/static/media/82529.d428bb32c37e52260cee.webp",
     "static/media/91871.webp": "/my-gaming-checklist/static/media/91871.1b71b661d923c0b88c06.webp",
@@ -693,6 +698,7 @@
     "static/media/w1500_50595456.webp": "/my-gaming-checklist/static/media/w1500_50595456.8f910d2e0e9ea43d2948.webp",
     "static/media/116915.webp": "/my-gaming-checklist/static/media/116915.b16aea570853b1492e09.webp",
     "static/media/83681.webp": "/my-gaming-checklist/static/media/83681.3f0d88cd4089b1f1753f.webp",
+    "static/media/96647.webp": "/my-gaming-checklist/static/media/96647.6ef8bcec8814a92f7c90.webp",
     "static/media/360220.webp": "/my-gaming-checklist/static/media/360220.89a6c01e4d14de84a631.webp",
     "static/media/w1500_37667594.webp": "/my-gaming-checklist/static/media/w1500_37667594.35df28d0c8b34e654f6d.webp",
     "static/media/w1500_51624754.webp": "/my-gaming-checklist/static/media/w1500_51624754.b1c91785f5fa9e5ff450.webp",
@@ -722,6 +728,7 @@
     "static/media/w1500_51624425.webp": "/my-gaming-checklist/static/media/w1500_51624425.062e03e5bb5f48197d34.webp",
     "static/media/w1500_51136729.webp": "/my-gaming-checklist/static/media/w1500_51136729.e8876504925ac536a46b.webp",
     "static/media/w1500_50182937.webp": "/my-gaming-checklist/static/media/w1500_50182937.e55728291bef1fa27849.webp",
+    "static/media/139772.webp": "/my-gaming-checklist/static/media/139772.e744733dfbc5dd7d08ca.webp",
     "static/media/w1500_3495734.webp": "/my-gaming-checklist/static/media/w1500_3495734.65569353958b826ec3e5.webp",
     "static/media/w1500_51625112.webp": "/my-gaming-checklist/static/media/w1500_51625112.f5565115dbbf8dd93a20.webp",
     "static/media/w1500_3539603.webp": "/my-gaming-checklist/static/media/w1500_3539603.99b8d59917e1037998de.webp",
@@ -742,6 +749,7 @@
     "static/media/251312.webp": "/my-gaming-checklist/static/media/251312.618e0fa736390f6c5d99.webp",
     "static/media/w1500_51619508.webp": "/my-gaming-checklist/static/media/w1500_51619508.3463ee8a7ae9c22bc9fe.webp",
     "static/media/w1500_50482892.webp": "/my-gaming-checklist/static/media/w1500_50482892.e845fc8a65a5aeaeaa26.webp",
+    "static/media/98686.webp": "/my-gaming-checklist/static/media/98686.0f1e42c907c411b5ac18.webp",
     "static/media/w1500_51624743.webp": "/my-gaming-checklist/static/media/w1500_51624743.46036e426ace8c8d0047.webp",
     "static/media/w1500_51624618.webp": "/my-gaming-checklist/static/media/w1500_51624618.364d378774acd4939c35.webp",
     "static/media/9795001.webp": "/my-gaming-checklist/static/media/9795001.268964ccda0e1dfb60b9.webp",
@@ -822,12 +830,14 @@
     "static/media/w1500_50214890.webp": "/my-gaming-checklist/static/media/w1500_50214890.f7307339ddbb990e798d.webp",
     "static/media/449836.webp": "/my-gaming-checklist/static/media/449836.a9329a1b92bf1fffcf81.webp",
     "static/media/43667.webp": "/my-gaming-checklist/static/media/43667.ccb24301e074c10c333a.webp",
+    "static/media/1639341.webp": "/my-gaming-checklist/static/media/1639341.e7af867215d825925d63.webp",
     "static/media/w1500_50317503.webp": "/my-gaming-checklist/static/media/w1500_50317503.505635d938fe3c99ca49.webp",
     "static/media/w1500_51630579.webp": "/my-gaming-checklist/static/media/w1500_51630579.0540d931c6a578404136.webp",
     "static/media/w1500_51624418.webp": "/my-gaming-checklist/static/media/w1500_51624418.b0dd3a0bed8fbd7155e9.webp",
     "static/media/109330.webp": "/my-gaming-checklist/static/media/109330.0fe9732c82e7f4f3cd14.webp",
     "static/media/68407.webp": "/my-gaming-checklist/static/media/68407.51cf819f79fccba5b8bc.webp",
     "static/media/w1500_51646429.webp": "/my-gaming-checklist/static/media/w1500_51646429.df0228d512be67c6aad4.webp",
+    "static/media/94127.webp": "/my-gaming-checklist/static/media/94127.76b1a175c7aeb885506c.webp",
     "static/media/w1500_51624386.webp": "/my-gaming-checklist/static/media/w1500_51624386.4c2fc029b5e232fa0a41.webp",
     "static/media/2052704.webp": "/my-gaming-checklist/static/media/2052704.886a00276c32bf627daf.webp",
     "static/media/775739.webp": "/my-gaming-checklist/static/media/775739.1788a46cdf9ac3c04a70.webp",
@@ -911,10 +921,10 @@
     "static/media/w1500_50191964.webp": "/my-gaming-checklist/static/media/w1500_50191964.7f5841be2d1505b35f7a.webp",
     "index.html": "/my-gaming-checklist/index.html",
     "main.0dcca853.css.map": "/my-gaming-checklist/static/css/main.0dcca853.css.map",
-    "main.bedef33d.js.map": "/my-gaming-checklist/static/js/main.bedef33d.js.map"
+    "main.efc6a911.js.map": "/my-gaming-checklist/static/js/main.efc6a911.js.map"
   },
   "entrypoints": [
     "static/css/main.0dcca853.css",
-    "static/js/main.bedef33d.js"
+    "static/js/main.efc6a911.js"
   ]
 }
