@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-gaming-checklist/static/css/main.fd7dba25.css",
+    "main.css": "/my-gaming-checklist/static/css/main.63448c26.css",
     "main.js": "/my-gaming-checklist/static/js/main.6646c2a3.js",
     "static/media/SunsetRiders.webp": "/my-gaming-checklist/static/media/SunsetRiders.5fbe649160f531976dc3.webp",
     "static/media/sonic_shuffle-square.webp": "/my-gaming-checklist/static/media/sonic_shuffle-square.51249065d8c0d5b0dc2a.webp",
@@ -1082,11 +1082,11 @@
     "static/media/mzl.xhewhlxp.webp": "/my-gaming-checklist/static/media/mzl.xhewhlxp.30949ed2f1b90a0d1bdd.webp",
     "static/media/b18c5811591887.560fa2c9887f1.webp": "/my-gaming-checklist/static/media/b18c5811591887.560fa2c9887f1.e13ba5bd0436b286655f.webp",
     "index.html": "/my-gaming-checklist/index.html",
-    "main.fd7dba25.css.map": "/my-gaming-checklist/static/css/main.fd7dba25.css.map",
+    "main.63448c26.css.map": "/my-gaming-checklist/static/css/main.63448c26.css.map",
     "main.6646c2a3.js.map": "/my-gaming-checklist/static/js/main.6646c2a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd7dba25.css",
+    "static/css/main.63448c26.css",
     "static/js/main.6646c2a3.js"
   ]
 }
