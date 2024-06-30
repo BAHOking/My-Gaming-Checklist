@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-gaming-checklist/static/css/main.0003e553.css",
-    "main.js": "/my-gaming-checklist/static/js/main.c4e3cde2.js",
+    "main.js": "/my-gaming-checklist/static/js/main.93d2e222.js",
     "static/media/SunsetRiders.webp": "/my-gaming-checklist/static/media/SunsetRiders.5fbe649160f531976dc3.webp",
     "static/media/sonic_shuffle-square.webp": "/my-gaming-checklist/static/media/sonic_shuffle-square.51249065d8c0d5b0dc2a.webp",
     "static/media/spider_man_and_the_x_men_in_arcade_s_revenge-square.webp": "/my-gaming-checklist/static/media/spider_man_and_the_x_men_in_arcade_s_revenge-square.e9ba0f4e607a602c9ecf.webp",
@@ -1222,10 +1222,10 @@
     "static/media/8775678.webp": "/my-gaming-checklist/static/media/8775678.fe73bae6cdf4a719eb3c.webp",
     "index.html": "/my-gaming-checklist/index.html",
     "main.0003e553.css.map": "/my-gaming-checklist/static/css/main.0003e553.css.map",
-    "main.c4e3cde2.js.map": "/my-gaming-checklist/static/js/main.c4e3cde2.js.map"
+    "main.93d2e222.js.map": "/my-gaming-checklist/static/js/main.93d2e222.js.map"
   },
   "entrypoints": [
     "static/css/main.0003e553.css",
-    "static/js/main.c4e3cde2.js"
+    "static/js/main.93d2e222.js"
   ]
 }
