@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-gaming-checklist/static/css/main.0003e553.css",
-    "main.js": "/my-gaming-checklist/static/js/main.d1745658.js",
+    "main.js": "/my-gaming-checklist/static/js/main.3946f724.js",
     "static/media/SunsetRiders.webp": "/my-gaming-checklist/static/media/SunsetRiders.5fbe649160f531976dc3.webp",
     "static/media/sonic_shuffle-square.webp": "/my-gaming-checklist/static/media/sonic_shuffle-square.51249065d8c0d5b0dc2a.webp",
     "static/media/spider_man_and_the_x_men_in_arcade_s_revenge-square.webp": "/my-gaming-checklist/static/media/spider_man_and_the_x_men_in_arcade_s_revenge-square.e9ba0f4e607a602c9ecf.webp",
@@ -183,6 +183,7 @@
     "static/media/god_of_war-square.webp": "/my-gaming-checklist/static/media/god_of_war-square.6dbf5e506fc83e7c1fbc.webp",
     "static/media/kirby_s_adventure-square.webp": "/my-gaming-checklist/static/media/kirby_s_adventure-square.1d666639190fa41dddda.webp",
     "static/media/immortal.webp": "/my-gaming-checklist/static/media/immortal.51405aeea82a5930026e.webp",
+    "static/media/disney_s_aladdin_in_nasira_s_revenge_action_game-square.webp": "/my-gaming-checklist/static/media/disney_s_aladdin_in_nasira_s_revenge_action_game-square.607fe1eb3ed7dfb3318b.webp",
     "static/media/nuclear_strike-square.webp": "/my-gaming-checklist/static/media/nuclear_strike-square.19bd893087f79ae5eee6.webp",
     "static/media/fester_s_quest-square.webp": "/my-gaming-checklist/static/media/fester_s_quest-square.9543d4564c2b5427db31.webp",
     "static/media/castlevania_iii_dracula_s_curse-square.webp": "/my-gaming-checklist/static/media/castlevania_iii_dracula_s_curse-square.053343ed7db335f7ac20.webp",
@@ -272,6 +273,7 @@
     "static/media/marvel_vs_capcom_infinite-square.webp": "/my-gaming-checklist/static/media/marvel_vs_capcom_infinite-square.13b410e09df93f9f0398.webp",
     "static/media/toxic_crusaders-square.webp": "/my-gaming-checklist/static/media/toxic_crusaders-square.00c36b49c27ed3687c72.webp",
     "static/media/shadow2.webp": "/my-gaming-checklist/static/media/shadow2.c1657650b732e7be9b71.webp",
+    "static/media/shovel_knight-square.webp": "/my-gaming-checklist/static/media/shovel_knight-square.a086e06ebde1b4c2b52a.webp",
     "static/media/mega_man_9-square.webp": "/my-gaming-checklist/static/media/mega_man_9-square.9efd3c6d79b6b69b4a4e.webp",
     "static/media/mega_man_7-square.webp": "/my-gaming-checklist/static/media/mega_man_7-square.ee0df103ee41683833a3.webp",
     "static/media/tiny_toon_adventures-square.webp": "/my-gaming-checklist/static/media/tiny_toon_adventures-square.645cb1642dce06917656.webp",
@@ -470,6 +472,7 @@
     "static/media/popeye-square_1.webp": "/my-gaming-checklist/static/media/popeye-square_1.70d2575fa704c487b357.webp",
     "static/media/Terminator.webp": "/my-gaming-checklist/static/media/Terminator.50f8ca3b38f922457076.webp",
     "static/media/adventures_in_the_magic_kingdom-square.webp": "/my-gaming-checklist/static/media/adventures_in_the_magic_kingdom-square.80253a1cc5a2a46c5bf0.webp",
+    "static/media/snake_s_revenge-square.webp": "/my-gaming-checklist/static/media/snake_s_revenge-square.8c66de2aadbd1aa8549a.webp",
     "static/media/gH6sJzpJQ3w.webp": "/my-gaming-checklist/static/media/gH6sJzpJQ3w.f33b49bd89edb620eb0a.webp",
     "static/media/48761.webp": "/my-gaming-checklist/static/media/48761.16d6f15ab19589268e4f.webp",
     "static/media/ContraShatteredSoldier.webp": "/my-gaming-checklist/static/media/ContraShatteredSoldier.64643f5cae9a48c299d6.webp",
@@ -1222,10 +1225,10 @@
     "static/media/8775678.webp": "/my-gaming-checklist/static/media/8775678.fe73bae6cdf4a719eb3c.webp",
     "index.html": "/my-gaming-checklist/index.html",
     "main.0003e553.css.map": "/my-gaming-checklist/static/css/main.0003e553.css.map",
-    "main.d1745658.js.map": "/my-gaming-checklist/static/js/main.d1745658.js.map"
+    "main.3946f724.js.map": "/my-gaming-checklist/static/js/main.3946f724.js.map"
   },
   "entrypoints": [
     "static/css/main.0003e553.css",
-    "static/js/main.d1745658.js"
+    "static/js/main.3946f724.js"
   ]
 }
