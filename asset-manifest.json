@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-gaming-checklist/static/css/main.0003e553.css",
-    "main.js": "/my-gaming-checklist/static/js/main.61d331d2.js",
+    "main.js": "/my-gaming-checklist/static/js/main.754d22ac.js",
     "static/media/SunsetRiders.webp": "/my-gaming-checklist/static/media/SunsetRiders.5fbe649160f531976dc3.webp",
     "static/media/sonic_shuffle-square.webp": "/my-gaming-checklist/static/media/sonic_shuffle-square.51249065d8c0d5b0dc2a.webp",
     "static/media/spider_man_and_the_x_men_in_arcade_s_revenge-square.webp": "/my-gaming-checklist/static/media/spider_man_and_the_x_men_in_arcade_s_revenge-square.e9ba0f4e607a602c9ecf.webp",
@@ -631,6 +631,7 @@
     "static/media/259106.webp": "/my-gaming-checklist/static/media/259106.86681a25cdf2e09f88c6.webp",
     "static/media/w1500_3466320.webp": "/my-gaming-checklist/static/media/w1500_3466320.a98d3524a4119bd26c7c.webp",
     "static/media/w1500_50569830.webp": "/my-gaming-checklist/static/media/w1500_50569830.93f8867262a9a3030c5a.webp",
+    "static/media/silkworm-square.webp": "/my-gaming-checklist/static/media/silkworm-square.202e56d422dff3a2eca3.webp",
     "static/media/w1500_50413801.webp": "/my-gaming-checklist/static/media/w1500_50413801.3f4bc772220abdc88cec.webp",
     "static/media/1535285.webp": "/my-gaming-checklist/static/media/1535285.19adedb6b76a36d9db7e.webp",
     "static/media/w1500_51624380.webp": "/my-gaming-checklist/static/media/w1500_51624380.bb24886cd9e1be49f378.webp",
@@ -793,6 +794,7 @@
     "static/media/675913.webp": "/my-gaming-checklist/static/media/675913.2e65fdf551fd694cd791.webp",
     "static/media/294943.webp": "/my-gaming-checklist/static/media/294943.cc2fb44dce1cd1cc42a3.webp",
     "static/media/w1500_51629425.webp": "/my-gaming-checklist/static/media/w1500_51629425.cb33ed6150a749cf4687.webp",
+    "static/media/55114.webp": "/my-gaming-checklist/static/media/55114.8a428cb6bb9a5d77fe09.webp",
     "static/media/1200x1200bf-6.webp": "/my-gaming-checklist/static/media/1200x1200bf-6.b8e7a61dbc5365f4fe47.webp",
     "static/media/237554.webp": "/my-gaming-checklist/static/media/237554.401d21d26446598b14e7.webp",
     "static/media/251501.webp": "/my-gaming-checklist/static/media/251501.ff0612a1a06e41b2c7fb.webp",
@@ -1051,6 +1053,7 @@
     "static/media/w1500_50370701.webp": "/my-gaming-checklist/static/media/w1500_50370701.97f92082f7595a8e6940.webp",
     "static/media/Scary1.webp": "/my-gaming-checklist/static/media/Scary1.8832432535a22fe2599a.webp",
     "static/media/190430.webp": "/my-gaming-checklist/static/media/190430.856d989bd8a161351fbc.webp",
+    "static/media/serious_sam_siberian_mayhem-square.webp": "/my-gaming-checklist/static/media/serious_sam_siberian_mayhem-square.8afe2da52118c0060bbe.webp",
     "static/media/678289.webp": "/my-gaming-checklist/static/media/678289.2e9814487fbc5f6f9aad.webp",
     "static/media/75980.webp": "/my-gaming-checklist/static/media/75980.6d3643b32b7bf271191c.webp",
     "static/media/w1500_50214890.webp": "/my-gaming-checklist/static/media/w1500_50214890.f7307339ddbb990e798d.webp",
@@ -1160,6 +1163,7 @@
     "static/media/w1500_51542036.webp": "/my-gaming-checklist/static/media/w1500_51542036.bb589215bc8805138c63.webp",
     "static/media/w1500_51629459.webp": "/my-gaming-checklist/static/media/w1500_51629459.0b1700c8361360cc0f86.webp",
     "static/media/52098.webp": "/my-gaming-checklist/static/media/52098.9d80f98d354ef04e66ea.webp",
+    "static/media/will_rock-square.webp": "/my-gaming-checklist/static/media/will_rock-square.3f619de5afb60dce6c36.webp",
     "static/media/138203.webp": "/my-gaming-checklist/static/media/138203.7f16491ed58d608e666b.webp",
     "static/media/2041989.webp": "/my-gaming-checklist/static/media/2041989.37ae29d544b7d0b01298.webp",
     "static/media/87943.webp": "/my-gaming-checklist/static/media/87943.b3d9d2ac14626154e2d1.webp",
@@ -1225,10 +1229,10 @@
     "static/media/8775678.webp": "/my-gaming-checklist/static/media/8775678.fe73bae6cdf4a719eb3c.webp",
     "index.html": "/my-gaming-checklist/index.html",
     "main.0003e553.css.map": "/my-gaming-checklist/static/css/main.0003e553.css.map",
-    "main.61d331d2.js.map": "/my-gaming-checklist/static/js/main.61d331d2.js.map"
+    "main.754d22ac.js.map": "/my-gaming-checklist/static/js/main.754d22ac.js.map"
   },
   "entrypoints": [
     "static/css/main.0003e553.css",
-    "static/js/main.61d331d2.js"
+    "static/js/main.754d22ac.js"
   ]
 }
