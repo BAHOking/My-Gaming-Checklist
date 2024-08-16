@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/my-gaming-checklist/static/css/main.0003e553.css",
-    "main.js": "/my-gaming-checklist/static/js/main.754d22ac.js",
+    "main.css": "/my-gaming-checklist/static/css/main.aba125c7.css",
+    "main.js": "/my-gaming-checklist/static/js/main.4af46340.js",
+    "static/media/pop1_3Best.mp4": "/my-gaming-checklist/static/media/pop1_3Best.b252108f8c70a31b58f6.mp4",
     "static/media/SunsetRiders.webp": "/my-gaming-checklist/static/media/SunsetRiders.5fbe649160f531976dc3.webp",
     "static/media/sonic_shuffle-square.webp": "/my-gaming-checklist/static/media/sonic_shuffle-square.51249065d8c0d5b0dc2a.webp",
     "static/media/spider_man_and_the_x_men_in_arcade_s_revenge-square.webp": "/my-gaming-checklist/static/media/spider_man_and_the_x_men_in_arcade_s_revenge-square.e9ba0f4e607a602c9ecf.webp",
@@ -1226,13 +1227,14 @@
     "static/media/b18c5811591887.560fa2c9887f1.webp": "/my-gaming-checklist/static/media/b18c5811591887.560fa2c9887f1.e13ba5bd0436b286655f.webp",
     "static/media/w1500_3564498.webp": "/my-gaming-checklist/static/media/w1500_3564498.d2baad66bba58f40acee.webp",
     "static/media/649290.webp": "/my-gaming-checklist/static/media/649290.2e601536c121e87dca43.webp",
+    "static/media/pop1_3Best.mp4_20240816_132131.979.webp": "/my-gaming-checklist/static/media/pop1_3Best.mp4_20240816_132131.979.b2fe3fa60be9d3b5130e.webp",
     "static/media/8775678.webp": "/my-gaming-checklist/static/media/8775678.fe73bae6cdf4a719eb3c.webp",
     "index.html": "/my-gaming-checklist/index.html",
-    "main.0003e553.css.map": "/my-gaming-checklist/static/css/main.0003e553.css.map",
-    "main.754d22ac.js.map": "/my-gaming-checklist/static/js/main.754d22ac.js.map"
+    "main.aba125c7.css.map": "/my-gaming-checklist/static/css/main.aba125c7.css.map",
+    "main.4af46340.js.map": "/my-gaming-checklist/static/js/main.4af46340.js.map"
   },
   "entrypoints": [
-    "static/css/main.0003e553.css",
-    "static/js/main.754d22ac.js"
+    "static/css/main.aba125c7.css",
+    "static/js/main.4af46340.js"
   ]
 }
