@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/my-gaming-checklist/static/css/main.aba125c7.css",
-    "main.js": "/my-gaming-checklist/static/js/main.4af46340.js",
+    "main.css": "/my-gaming-checklist/static/css/main.b1c692c7.css",
+    "main.js": "/my-gaming-checklist/static/js/main.e90ee0e9.js",
     "static/media/pop1_3Best.mp4": "/my-gaming-checklist/static/media/pop1_3Best.b252108f8c70a31b58f6.mp4",
+    "static/media/v001.mp4": "/my-gaming-checklist/static/media/v001.5c723ca8691592aa4ff2.mp4",
+    "static/media/v002.mp4": "/my-gaming-checklist/static/media/v002.97c0a19ec16a08912c7d.mp4",
     "static/media/SunsetRiders.webp": "/my-gaming-checklist/static/media/SunsetRiders.5fbe649160f531976dc3.webp",
     "static/media/sonic_shuffle-square.webp": "/my-gaming-checklist/static/media/sonic_shuffle-square.51249065d8c0d5b0dc2a.webp",
     "static/media/spider_man_and_the_x_men_in_arcade_s_revenge-square.webp": "/my-gaming-checklist/static/media/spider_man_and_the_x_men_in_arcade_s_revenge-square.e9ba0f4e607a602c9ecf.webp",
@@ -1229,12 +1231,13 @@
     "static/media/649290.webp": "/my-gaming-checklist/static/media/649290.2e601536c121e87dca43.webp",
     "static/media/pop1_3Best.mp4_20240816_132131.979.webp": "/my-gaming-checklist/static/media/pop1_3Best.mp4_20240816_132131.979.b2fe3fa60be9d3b5130e.webp",
     "static/media/8775678.webp": "/my-gaming-checklist/static/media/8775678.fe73bae6cdf4a719eb3c.webp",
+    "static/media/ar.webp": "/my-gaming-checklist/static/media/ar.f9d282bcb144b57e7202.webp",
     "index.html": "/my-gaming-checklist/index.html",
-    "main.aba125c7.css.map": "/my-gaming-checklist/static/css/main.aba125c7.css.map",
-    "main.4af46340.js.map": "/my-gaming-checklist/static/js/main.4af46340.js.map"
+    "main.b1c692c7.css.map": "/my-gaming-checklist/static/css/main.b1c692c7.css.map",
+    "main.e90ee0e9.js.map": "/my-gaming-checklist/static/js/main.e90ee0e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.aba125c7.css",
-    "static/js/main.4af46340.js"
+    "static/css/main.b1c692c7.css",
+    "static/js/main.e90ee0e9.js"
   ]
 }
