@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-gaming-checklist/static/css/main.b1c692c7.css",
-    "main.js": "/my-gaming-checklist/static/js/main.e90ee0e9.js",
+    "main.js": "/my-gaming-checklist/static/js/main.7a0d4d05.js",
     "static/media/pop1_3Best.mp4": "/my-gaming-checklist/static/media/pop1_3Best.b252108f8c70a31b58f6.mp4",
     "static/media/v001.mp4": "/my-gaming-checklist/static/media/v001.5c723ca8691592aa4ff2.mp4",
     "static/media/v002.mp4": "/my-gaming-checklist/static/media/v002.97c0a19ec16a08912c7d.mp4",
@@ -1234,10 +1234,10 @@
     "static/media/ar.webp": "/my-gaming-checklist/static/media/ar.f9d282bcb144b57e7202.webp",
     "index.html": "/my-gaming-checklist/index.html",
     "main.b1c692c7.css.map": "/my-gaming-checklist/static/css/main.b1c692c7.css.map",
-    "main.e90ee0e9.js.map": "/my-gaming-checklist/static/js/main.e90ee0e9.js.map"
+    "main.7a0d4d05.js.map": "/my-gaming-checklist/static/js/main.7a0d4d05.js.map"
   },
   "entrypoints": [
     "static/css/main.b1c692c7.css",
-    "static/js/main.e90ee0e9.js"
+    "static/js/main.7a0d4d05.js"
   ]
 }
