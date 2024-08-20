@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-gaming-checklist/static/css/main.b1c692c7.css",
-    "main.js": "/my-gaming-checklist/static/js/main.669be831.js",
+    "main.js": "/my-gaming-checklist/static/js/main.91fb9863.js",
     "static/media/pop1_3Best.mp4": "/my-gaming-checklist/static/media/pop1_3Best.b252108f8c70a31b58f6.mp4",
     "static/media/NFS.mp4": "/my-gaming-checklist/static/media/NFS.93d2a640cf754c35ff52.mp4",
     "static/media/Faina.mp4": "/my-gaming-checklist/static/media/Faina.cd5d0aac14218cfe0efb.mp4",
@@ -1274,19 +1274,19 @@
     "static/media/OZone.wmv_20240817_213301.402.webp": "/my-gaming-checklist/static/media/OZone.wmv_20240817_213301.402.62ee7562f74cb9586ebf.webp",
     "static/media/NFS.wmv_20240819_123259.520.webp": "/my-gaming-checklist/static/media/NFS.wmv_20240819_123259.520.d6b3bcb065716df14c00.webp",
     "static/media/649290.webp": "/my-gaming-checklist/static/media/649290.2e601536c121e87dca43.webp",
-    "static/media/ar3.webp": "/my-gaming-checklist/static/media/ar3.0136770fe02a02b448e1.webp",
-    "static/media/ar2.webp": "/my-gaming-checklist/static/media/ar2.486d0d9424d77da3f07c.webp",
-    "static/media/ar1.webp": "/my-gaming-checklist/static/media/ar1.42320b00e7f4f6d544d4.webp",
-    "static/media/ar4.webp": "/my-gaming-checklist/static/media/ar4.d7193129735c4b63d5ee.webp",
+    "static/media/arr3.webp": "/my-gaming-checklist/static/media/arr3.0136770fe02a02b448e1.webp",
+    "static/media/arr2.webp": "/my-gaming-checklist/static/media/arr2.486d0d9424d77da3f07c.webp",
+    "static/media/arr1.webp": "/my-gaming-checklist/static/media/arr1.42320b00e7f4f6d544d4.webp",
+    "static/media/arr4.webp": "/my-gaming-checklist/static/media/arr4.d7193129735c4b63d5ee.webp",
     "static/media/Faina.wmv_20240817_213415.761.webp": "/my-gaming-checklist/static/media/Faina.wmv_20240817_213415.761.c965fb261bcdf1411c7f.webp",
     "static/media/pop1_3Best.mp4_20240816_132131.979.webp": "/my-gaming-checklist/static/media/pop1_3Best.mp4_20240816_132131.979.b2fe3fa60be9d3b5130e.webp",
     "static/media/8775678.webp": "/my-gaming-checklist/static/media/8775678.fe73bae6cdf4a719eb3c.webp",
     "index.html": "/my-gaming-checklist/index.html",
     "main.b1c692c7.css.map": "/my-gaming-checklist/static/css/main.b1c692c7.css.map",
-    "main.669be831.js.map": "/my-gaming-checklist/static/js/main.669be831.js.map"
+    "main.91fb9863.js.map": "/my-gaming-checklist/static/js/main.91fb9863.js.map"
   },
   "entrypoints": [
     "static/css/main.b1c692c7.css",
-    "static/js/main.669be831.js"
+    "static/js/main.91fb9863.js"
   ]
 }
