@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/my-gaming-checklist/static/css/main.b1c692c7.css",
-    "main.js": "/my-gaming-checklist/static/js/main.f622a219.js",
+    "main.js": "/my-gaming-checklist/static/js/main.77c803cf.js",
+    "static/media/rodyDytel.mp4": "/my-gaming-checklist/static/media/rodyDytel.7c9ce4816971311f100a.mp4",
     "static/media/spokiy.mp4": "/my-gaming-checklist/static/media/spokiy.43ffcce714bf10212850.mp4",
     "static/media/v068.mp4": "/my-gaming-checklist/static/media/v068.8b87f482d6e2bce7f36c.mp4",
     "static/media/pop1_3Best.mp4": "/my-gaming-checklist/static/media/pop1_3Best.b252108f8c70a31b58f6.mp4",
@@ -1365,6 +1366,7 @@
     "static/media/714924.webp": "/my-gaming-checklist/static/media/714924.bc4800fb7a57fe3255c4.webp",
     "static/media/743064.webp": "/my-gaming-checklist/static/media/743064.83a9fd52acf37dcd7d99.webp",
     "static/media/fonstola.ru_180262.webp": "/my-gaming-checklist/static/media/fonstola.ru_180262.9bb4ccc5d2de596de1c7.webp",
+    "static/media/20240905_094807.496.webp": "/my-gaming-checklist/static/media/20240905_094807.496.ef46f30a88e2135629bc.webp",
     "static/media/6048750.webp": "/my-gaming-checklist/static/media/6048750.c860ac7b718ce8b4f6fe.webp",
     "static/media/1623577.webp": "/my-gaming-checklist/static/media/1623577.1b8541f1835678efbe42.webp",
     "static/media/359642.webp": "/my-gaming-checklist/static/media/359642.60776ab522b2638c0a0d.webp",
@@ -1411,10 +1413,10 @@
     "static/media/20240824_134312.496.webp": "/my-gaming-checklist/static/media/20240824_134312.496.0a1b6f4d1cf1f29f3708.webp",
     "index.html": "/my-gaming-checklist/index.html",
     "main.b1c692c7.css.map": "/my-gaming-checklist/static/css/main.b1c692c7.css.map",
-    "main.f622a219.js.map": "/my-gaming-checklist/static/js/main.f622a219.js.map"
+    "main.77c803cf.js.map": "/my-gaming-checklist/static/js/main.77c803cf.js.map"
   },
   "entrypoints": [
     "static/css/main.b1c692c7.css",
-    "static/js/main.f622a219.js"
+    "static/js/main.77c803cf.js"
   ]
 }
